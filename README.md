@@ -44,3 +44,5 @@ Orchestration: Docker, Docker Compose
        ▼
 [ Risposta al Frontend ]
 ```
+<img width="1337" height="772" alt="Schermata del 2026-10-17 22-23-17" src="https://github.com/user-attachments/assets/94b2b277-69cd-4fe6-8cb1-cc53fbfc21f0" />
+
